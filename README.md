@@ -1,8 +1,8 @@
 # skiba on streamlit
 
-The non-coding version of the skiba app, a geospatial python package to extract GEE data for foresters and natural resource professionals.
+The non-coding version of the forestspot app, a geospatial python package to extract GEE data for foresters and natural resource professionals.
 
-Web App URL: <https://gskiba.streamlit.app>
+Web App URL: <https://forestspot.streamlit.app>
 
 ## Instructions
 

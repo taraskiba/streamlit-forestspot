@@ -6,6 +6,6 @@ Web App URL: <https://forestspot.streamlit.app>
 
 ## Instructions
 
-1. 
+1.
 ## Demo
 
